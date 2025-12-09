@@ -1,0 +1,101 @@
+Vehicle ID,Maintenance Type,Severity Level,Timestamp
+V005,Engine Check,High,2025-01-22 12:19:56.303457
+V005,Engine Check,Low,2025-01-22 12:03:56.303457
+V005,Brake Pads Replacement,High,2025-01-22 11:59:56.303457
+V004,Brake Pads Replacement,Low,2025-01-22 12:41:56.303457
+V002,Tire Replacement,High,2025-01-22 12:29:56.303457
+V003,Engine Check,Low,2025-01-22 12:57:56.303457
+V001,Brake Pads Replacement,Low,2025-01-22 12:18:56.303457
+V003,Tire Replacement,Medium,2025-01-22 12:11:56.303457
+V005,Brake Pads Replacement,High,2025-01-22 12:16:56.303457
+V001,Brake Pads Replacement,Medium,2025-01-22 12:54:56.303457
+V004,Tire Replacement,Low,2025-01-22 12:41:56.303457
+V002,Engine Check,Medium,2025-01-22 12:45:56.303457
+V004,Tire Replacement,Low,2025-01-22 12:46:56.303457
+V003,Engine Check,Medium,2025-01-22 12:24:56.303457
+V001,Tire Replacement,High,2025-01-22 12:14:56.303457
+V004,Tire Replacement,Low,2025-01-22 12:35:56.303457
+V005,Engine Check,Low,2025-01-22 12:52:56.303457
+V003,Engine Check,High,2025-01-22 12:38:56.303457
+V005,Engine Check,Medium,2025-01-22 12:23:56.303457
+V004,Tire Replacement,Low,2025-01-22 11:57:56.303457
+V002,Tire Replacement,High,2025-01-22 12:57:56.303457
+V004,Engine Check,Low,2025-01-22 12:50:56.303457
+V005,Tire Replacement,High,2025-01-22 12:32:56.303457
+V001,Tire Replacement,High,2025-01-22 12:13:56.303457
+V001,Tire Replacement,High,2025-01-22 12:40:56.303457
+V004,Brake Pads Replacement,Medium,2025-01-22 12:10:56.303457
+V003,Brake Pads Replacement,Low,2025-01-22 12:35:56.303457
+V005,Engine Check,Low,2025-01-22 12:10:56.303457
+V005,Tire Replacement,High,2025-01-22 12:57:56.303457
+V003,Tire Replacement,Medium,2025-01-22 12:24:56.303457
+V001,Tire Replacement,Low,2025-01-22 12:23:56.303457
+V002,Brake Pads Replacement,High,2025-01-22 12:07:56.303457
+V005,Tire Replacement,High,2025-01-22 12:20:56.303457
+V005,Engine Check,Medium,2025-01-22 12:30:56.303457
+V005,Tire Replacement,Medium,2025-01-22 12:02:56.303457
+V002,Brake Pads Replacement,High,2025-01-22 12:50:56.303457
+V004,Tire Replacement,Low,2025-01-22 12:05:56.303457
+V004,Brake Pads Replacement,Medium,2025-01-22 12:35:56.303457
+V001,Engine Check,Low,2025-01-22 12:08:56.303457
+V003,Engine Check,Low,2025-01-22 12:14:56.303457
+V004,Engine Check,Medium,2025-01-22 12:45:56.303457
+V003,Brake Pads Replacement,Low,2025-01-22 12:43:56.303457
+V004,Engine Check,Medium,2025-01-22 12:32:56.303457
+V005,Brake Pads Replacement,High,2025-01-22 12:44:56.303457
+V003,Engine Check,Low,2025-01-22 12:23:56.303457
+V003,Engine Check,Low,2025-01-22 11:58:56.303457
+V002,Brake Pads Replacement,High,2025-01-22 12:39:56.303457
+V003,Engine Check,High,2025-01-22 12:38:56.303457
+V001,Tire Replacement,Medium,2025-01-22 12:53:56.303457
+V004,Tire Replacement,High,2025-01-22 12:36:56.303457
+V001,Tire Replacement,Low,2025-01-22 12:47:56.303457
+V003,Brake Pads Replacement,High,2025-01-22 12:33:56.303457
+V003,Tire Replacement,High,2025-01-22 12:46:56.303457
+V003,Engine Check,High,2025-01-22 12:51:56.303457
+V005,Tire Replacement,Medium,2025-01-22 12:28:56.303457
+V001,Engine Check,Low,2025-01-22 12:43:56.303457
+V004,Engine Check,Medium,2025-01-22 12:40:56.303457
+V001,Engine Check,Low,2025-01-22 12:32:56.303457
+V003,Brake Pads Replacement,Medium,2025-01-22 12:04:56.303457
+V002,Engine Check,Low,2025-01-22 12:53:56.303457
+V004,Engine Check,Low,2025-01-22 12:40:56.303457
+V004,Tire Replacement,Medium,2025-01-22 12:18:56.303457
+V001,Tire Replacement,Low,2025-01-22 12:31:56.303457
+V002,Brake Pads Replacement,High,2025-01-22 12:10:56.303457
+V001,Tire Replacement,High,2025-01-22 12:42:56.303457
+V005,Engine Check,Low,2025-01-22 12:06:56.303457
+V003,Engine Check,Medium,2025-01-22 12:11:56.304457
+V003,Engine Check,High,2025-01-22 12:39:56.304457
+V002,Engine Check,Low,2025-01-22 12:18:56.304457
+V003,Engine Check,Low,2025-01-22 12:11:56.304457
+V001,Engine Check,High,2025-01-22 12:37:56.304457
+V002,Tire Replacement,Low,2025-01-22 12:02:56.304457
+V004,Brake Pads Replacement,Medium,2025-01-22 12:19:56.304457
+V003,Tire Replacement,Medium,2025-01-22 11:59:56.304457
+V004,Engine Check,Medium,2025-01-22 12:32:56.304457
+V003,Brake Pads Replacement,Low,2025-01-22 12:42:56.304457
+V003,Brake Pads Replacement,High,2025-01-22 12:51:56.304457
+V002,Engine Check,Medium,2025-01-22 12:16:56.304457
+V005,Tire Replacement,High,2025-01-22 12:11:56.304457
+V003,Tire Replacement,High,2025-01-22 12:08:56.304457
+V004,Engine Check,High,2025-01-22 12:21:56.304457
+V001,Brake Pads Replacement,High,2025-01-22 12:05:56.304457
+V002,Tire Replacement,High,2025-01-22 12:11:56.304457
+V003,Brake Pads Replacement,Medium,2025-01-22 12:53:56.304457
+V003,Brake Pads Replacement,High,2025-01-22 12:24:56.304457
+V002,Tire Replacement,High,2025-01-22 12:08:56.304457
+V001,Brake Pads Replacement,High,2025-01-22 12:13:56.304457
+V002,Tire Replacement,High,2025-01-22 12:49:56.304457
+V003,Brake Pads Replacement,Medium,2025-01-22 12:40:56.304457
+V004,Tire Replacement,Medium,2025-01-22 12:27:56.304457
+V001,Engine Check,Medium,2025-01-22 12:06:56.304457
+V005,Engine Check,Medium,2025-01-22 12:22:56.304457
+V005,Tire Replacement,Low,2025-01-22 12:34:56.304457
+V002,Tire Replacement,Low,2025-01-22 12:37:56.304457
+V003,Tire Replacement,Low,2025-01-22 12:42:56.304457
+V004,Engine Check,Low,2025-01-22 11:59:56.304457
+V004,Engine Check,Medium,2025-01-22 12:36:56.304457
+V004,Brake Pads Replacement,High,2025-01-22 12:48:56.304457
+V002,Tire Replacement,Low,2025-01-22 12:13:56.304457
+V002,Tire Replacement,Low,2025-01-22 12:00:56.304457
