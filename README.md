@@ -13,3 +13,14 @@ This project analyzes FedEx package delivery times and route performance to redu
 - Exploratory Data Analysis (Python)
 - SQL KPI Queries
 - Power BI Dashboard for route performance
+
+- Added EDA structure
+- Added missing value analysis
+- Added initial data cleaning
+- Merged core datasets
+- Exported merged dataset for SQL analysis
+
+Next Steps:
+- Write SQL KPI queries 
+- Begin detailed EDA insights 
+- Prepare Power BI Dashboard layout
