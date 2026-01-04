@@ -1,6 +1,6 @@
 # FedEx Routing & Delivery Performance Analytics
 
-### Tools: Python, SQL, Power BI
+### Tools: Python, SQL, Power BI 
 
 This project analyzes FedEx package delivery times and route performance to reduce delays, optimize routing, and improve cost efficiency.
 
